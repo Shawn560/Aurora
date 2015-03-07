@@ -1,0 +1,127 @@
+item.dIngot.name=Diorite Ingot
+item.TinIngot.name=Tin Ingot
+item.cIngot.name=Copper Ingot
+item.zIngot.name=Zinc Ingot
+item.nIngot.name=Nickel Ingot
+item.mIngot.name=Maganese Ingot
+item.vIngot.name=Vanadium Ingot
+item.rIngot.name=Rhodium Ingot
+
+entity.Shawn560.name=Shawn560
+entity.Nathmatt25.name=Nathmatt25
+entity.Bracken453.name=Bracken453
+entity.Alicheek.name=Alicheek
+entity.Madjock999.name=Madjock999
+entity.Backcab.name=Backcab
+entity.IraqiMilitant.name=IraqiMilitant
+entity.GoddamnBatman.name=GoddamnBatman
+
+item.sStick.name=Stone Stick
+item.iStick.name=Iron Stick
+item.gStick.name=Gold Stick
+item.dStick.name=Diamond Stick
+item.eStick.name=Emerald Stick
+item.bStick.name=Bone Stick
+
+item.sRod.name=Stone Rod
+item.iRod.name=Iron Rod
+item.gRod.name=Gold Rod
+item.dRod.name=Diamond Rod
+item.eRod.name=Emerald Rod
+item.bRod.name=Bone Rod
+
+item.Shard.name=Diorite Shard
+item.sShard.name=Stone Shard
+item.bShard.name=Bone Shard
+item.iShard.name=Iron Shard
+item.gShard.name=Gold Shard
+item.dShard.name=Diamond Shard
+item.eShard.name=Emerald Shard
+item.cShard.name=Copper Shard
+item.tShard.name=Tin Shard
+item.zShard.name=Zinc Shard
+item.nShard.name=Nickel Shard
+item.mShard.name=Maganese Shard
+item.vShard.name=Vanadium Shard
+item.rShard.name=Rhodium Shard
+
+item.dSeed.name=Diorite Seeds
+item.cSeed.name=Copper Seeds
+item.tSeed.name=Tin Seeds
+item.zSeed.name=Zinc Seeds
+item.nSeed.name=Nickel Seeds
+item.mSeed.name=Maganese Seeds
+item.vSeed.name=Vanadium Seeds
+item.rSeed.name=Rhodium Seeds
+
+item.AxeHead.name=Axe Head
+item.PickHead.name=Pickaxe Head
+item.SpadeHead.name=Shovel Head
+item.SwordBlade.name=Sword Blade
+item.SwordGrip.name=Sword Grip
+item.HoeHead.name=Hoe Head
+
+item.sdPick.name=Diorite Pickaxe
+item.sdAxe.name=Diorite Axe
+item.sdSpade.name=Diorite Shovel
+item.sdSword.name=Diorite Sword
+item.sdHoe.name=Diorite Hoe
+
+item.idPick.name=Diorite Pickaxe
+item.idAxe.name=Diorite Axe
+item.idSpade.name=Diorite Shovel
+item.idSword.name=Diorite Sword
+item.idHoe.name=Diorite Hoe
+
+item.gdPick.name=Diorite Pickaxe
+item.gdAxe.name=Diorite Axe
+item.gdSpade.name=Diorite Shovel
+item.gdSword.name=Diorite Sword
+item.gdHoe.name=Diorite Hoe
+
+item.ddPick.name=Diorite Pickaxe
+item.ddAxe.name=Diorite Axe
+item.ddSpade.name=Diorite Shovel
+item.ddSword.name=Diorite Sword
+item.ddHoe.name=Diorite Hoe
+
+item.edPick.name=Diorite Pickaxe
+item.edAxe.name=Diorite Axe
+item.edSpade.name=Diorite Shovel
+item.edSword.name=Diorite Sword
+item.edHoe.name=Diorite Hoe
+
+tile.dOre.name=Diorite Ore
+tile.TinOre.name=Tin Ore
+tile.CopperOre.name=Copper Ore
+tile.ZincOre.name=Zinc Ore
+tile.NickelOre.name=Nickel Ore
+tile.MaganeseOre.name=Maganese Ore
+tile.VanadiumOre.name=Vanadium Ore
+tile.RhodiumOre.name=Rhodium Ore
+
+tile.dOreNether.name=Diorite Nether Ore
+tile.TinOreNether.name=Tin Nether Ore
+tile.CopperOreNether.name=Copper Nether Ore
+tile.ZincOreNether.name=Zinc Nether Ore
+tile.NickelOreNether.name=Nickel Nether Ore
+tile.MaganeseOreNether.name=Maganese Nether Ore
+tile.VanadiumOreNether.name=Vanadium Nether Ore
+tile.RhodiumOreNether.name=Rhodium Nether Ore
+
+tile.dCrop.name=Diorite Plant
+tile.cCrop.name=Copper Plant
+tile.tCrop.name=Tin Plant
+tile.zCrop.name=Zinc Plant
+tile.nCrop.name=Nickel Plant
+tile.mCrop.name=Maganese Plant
+tile.vCrop.name=Vanaium Plant
+tile.rCrop.name=Rhodium Plant
+
+tile.CraftingBench.name=Masterminds Bench
+
+itemGroup.BlockTab=Aurorean : Blocks
+itemGroup.ItemTab=Aurorean : Items
+itemGroup.ToolTab=Aurorean : Tools
+itemGroup.ArmourTab=Aurorean : Armours
+itemGroup.CraftingTab=Aurorean : Crafting
